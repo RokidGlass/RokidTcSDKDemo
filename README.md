@@ -30,7 +30,7 @@ allprojects {
 在app的build.gradle中添加依赖
 ```java
 dependencies {
-    implementation implementation 'com.rokid.glass:tclib:1.0'
+    implementation 'com.rokid.glass:tclib:1.0'
 }
 ```
 
